@@ -1,0 +1,8 @@
+[X] indicates fixed
+[/] indicates started
+[?] indicates elaboration is needed
+[ ] indicates no progress
+
+-------------------------------------
+
+[ ] Quickly adding channels to the home page will cause the update thread to deadlock

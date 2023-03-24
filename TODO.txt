@@ -1,0 +1,16 @@
+[X] indicates completed
+[/] indicates started
+[?] indicates elaboration is needed
+[ ] indicates no progress
+
+-------------------------------------
+
+[ ] Cache favorite channel data for faster loading when adding new channels
+[/] Missing content download tool using MD5 CHKSUM matching
+[ ] Pop up for very first users stating key points on how to use the program
+[/] Detailed launcher with remote accessed release notes and major announcements
+[ ] Splash screen
+[ ] Option to add channels to home via Profile tab
+[ ] Add a link to current channel's profile page
+[ ] Tab loading time-out (inside the thread?)
+[ ] Null preview/profile images loading via HTML "img src"

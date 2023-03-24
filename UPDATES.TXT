@@ -1,0 +1,15 @@
+Saturday, April 12th (4/12/2014)
+	- Added a prompt that shows if adding a channel to favorites was successful
+	- Added a way of opening up a profile from the Home and Live Channels Tabs
+	- Made the plus icon on the Live Channels Tab functional
+	- Made the plus icon disappear if the channel is already on their favorites
+	- Added hover icons on Preferred game drop-down in general settings
+	- Made clicking the user link under channel previews opens their profile in the Profile Tab
+	- Made changing the game puts the current tab to the Live Channels Tab
+	- Made removing the last channel in the Home tab puts back the text telling you how to add channels
+	- Added a plus icon to the Home Tab that, when clicked, opens a prompt for the person to put the channel they would like to add to the Home Tab
+	- Added a live check to profiles
+	- Added a search bar to profiles (for searching another user)
+	- Added a magnifying glass icon to the left of the search field placeholder to make it more visible
+	- Fixed a bug where clicking on a username in the Home Tab would add the name to the search box even if it already existed
+	- Added hyperlink parsing in user bio's in the Profile Tab.
